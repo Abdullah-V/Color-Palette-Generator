@@ -1,4 +1,5 @@
-# color-palette-generator
+# Color Palette Generator
+### Simple color palette generator. 
 
 ## Project setup
 ```
