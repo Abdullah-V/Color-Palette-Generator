@@ -1,6 +1,8 @@
 # Color Palette Generator
 ### Simple color palette generator. 
 
+![alt text](https://github.com/Abdullah-V/images/blob/master/palette-gen.png)
+
 ## Project setup
 ```
 npm install
